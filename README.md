@@ -1,7 +1,7 @@
 # Simulación de Repartidor de Paquetería (ACO, GA y PSO)
 
 **Demo en vivo (GitHub Pages):**  
-👉 https://ncav275.github.io/simulacion-de-repartidor-PIA_ALGORITMOS-BIOINSPIRADOS/
+https://ncav275.github.io/simulacion-de-repartidor-PIA_ALGORITMOS-BIOINSPIRADOS/
 
 ---
 
